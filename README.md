@@ -1,4 +1,11 @@
 # Halo, saya [Rifki Priatna] 👋
+<div align="center">
+  <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="Cat Coder" height="300">
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaharudinZaelani&theme=dark" height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaharudinZaelani&theme=dark" height="200">
+</div>
 
 ## Tentang Saya
 
