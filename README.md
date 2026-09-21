@@ -1,4 +1,4 @@
-# Halo, saya [Rifki Priatna] 👋
+# Halo, saya [J Rifky Priatna] 👋
 <div align="center">
   <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="Cat Coder" height="300">
 </div>
